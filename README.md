@@ -1,4 +1,4 @@
-# **环境配置特殊点
+# 环境配置特殊点
 # 1.后端/backend/api中有两个app，需分别makemigrations
 #### 2.引入了elementUI组件库
 #### 3.引入了djoser库
